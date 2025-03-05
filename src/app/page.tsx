@@ -1,6 +1,6 @@
 'use client';
 
-import LandingPage from './Landingpage';
+import LandingPage from './LandingPage';
 
 export default function Home() {
   return <LandingPage />;
