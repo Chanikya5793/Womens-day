@@ -14,13 +14,3 @@ const Card = ({ children, className = '' }: CardProps) => {
 };
 
 export default Card;
-
-function Card() {
-  return (
-    <div>
-      Card
-    </div>
-  );
-}
-
-export default Card;
